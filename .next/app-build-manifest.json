@@ -1,0 +1,40 @@
+{
+  "pages": {
+    "/[lng]/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/[lng]/layout.css",
+      "static/chunks/app/[lng]/layout.js"
+    ],
+    "/[lng]/(MainLayout)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/[lng]/(MainLayout)/layout.js"
+    ],
+    "/[lng]/(MainLayout)/dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/[lng]/(MainLayout)/dashboard/page.js"
+    ],
+    "/[lng]/(MainLayout)/product/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/[lng]/(MainLayout)/product/page.js"
+    ],
+    "/[lng]/(MainLayout)/user/create/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/[lng]/(MainLayout)/user/create/page.js"
+    ],
+    "/[lng]/(MainLayout)/user/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/[lng]/(MainLayout)/user/page.js"
+    ],
+    "/[lng]/(MainLayout)/role/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/[lng]/(MainLayout)/role/page.js"
+    ]
+  }
+}

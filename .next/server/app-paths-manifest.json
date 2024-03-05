@@ -1,0 +1,7 @@
+{
+  "/[lng]/(MainLayout)/dashboard/page": "app/[lng]/(MainLayout)/dashboard/page.js",
+  "/[lng]/(MainLayout)/product/page": "app/[lng]/(MainLayout)/product/page.js",
+  "/[lng]/(MainLayout)/user/create/page": "app/[lng]/(MainLayout)/user/create/page.js",
+  "/[lng]/(MainLayout)/user/page": "app/[lng]/(MainLayout)/user/page.js",
+  "/[lng]/(MainLayout)/role/page": "app/[lng]/(MainLayout)/role/page.js"
+}
