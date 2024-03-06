@@ -20,20 +20,24 @@ const nextConfig = {
   },
   images: {
     remotePatterns: [
-      {
-        protocol: "http",
-        hostname: "localhost",
-      },
-      {
-        protocol: "http",
-        hostname: "127.0.0.1:8000",
-      },
+      // {
+      //   protocol: "http",
+      //   hostname: "localhost",
+      // },
+      // {
+      //   protocol: "http",
+      //   hostname: "127.0.0.1:8000",
+      // },
+      // {
+      //   protocol: "https",
+      //   hostname: "laravel.pixelstrap.net",
+      // },
       {
         protocol: "https",
-        hostname: "laravel.pixelstrap.net",
+        hostname: "buyapi.alibuybd.com",
       },
       {
-        protocol: "https",
+        protocol: "http",
         hostname: "buyapi.alibuybd.com",
       },
     ],
